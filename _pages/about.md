@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-DU Yao is a Ph.D. student at X-MedLab@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Xiaomeng LI](https://xmengli.github.io/). He is broadly interested in computer vision, deep learning and medical image analysis.
+DU Yao is a Ph.D. student at [X-MedLab@HKUST](https://xmengli.github.io/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Xiaomeng LI](https://xmengli.github.io/). He is broadly interested in computer vision, deep learning and medical image analysis.
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](ydubf@connect.ust.hk)
 
