@@ -13,7 +13,7 @@ I am a Ph.D. student at [The Hong Kong University of Science and Technology](htt
 [Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](ydubf@connect.ust.hk)
 
 
-Conferences
+ML Research
 -----
 ### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
@@ -24,7 +24,7 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 </font>
 </p>
 
-Journals
+AI for Science - Structural Health Monitoring
 -----
 ### Wireless IoT Monitoring System in Hong Kong-Zhuhai-Macao Bridge and Edge Computing for Anomaly Detection
 <p style="line-height:1.0">
