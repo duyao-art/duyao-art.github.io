@@ -15,7 +15,6 @@ DU Yao is a Ph.D. student at [X-MedLab@HKUST], [The Hong Kong University of Scie
 
 Conferences
 -----
-<img style="float: left; margin:5px 10px" src="../images/semireg.jpg" width="160" height="140">
 ### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
 <font size="2">
@@ -27,7 +26,6 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 
 Journals
 -----
-<img style="float: left; margin:5px 10px" src="../images/iot.jpg" width="160" height="140">
 ### Wireless IoT Monitoring System in Hong Kong-ZHuhai-Macao Bridge and Edge Computing for Anomaly Detection
 <p style="line-height:1.0">
 <font size="2">
@@ -36,8 +34,7 @@ IEEE Internet of Things Journal, 2023<br />
 <br />
 </font>
 </p>
------
-<img style="float: left; margin:5px 10px" src="../images/anomaly.jpg" width="160" height="140">
+
 ### Data Anomaly Detection through Semisupervised Learning Aided by Customized Data Augmentation Techniques
 <p style="line-height:1.0">
 <font size="2">
@@ -46,28 +43,7 @@ Structural Control and Health Monitoring, 2023<br />
 <br />
 </font>
 </p>
------
-<img style="float: left; margin:5px 10px" src="../images/svdd.jpg" width="160" height="140">
-### Anomaly Detection of Sensor Faults and Extreme Events based on Support Vector Data Description
-<p style="line-height:1.0">
-<font size="2">
-Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
-Structural Control and Health Monitoring, 2022<br />
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/oneclass.jpg" width="160" height="140">
-### Unsupervised One-class Classification for Condition Assessment of Bridge Cables using Bayesian Factor Analysis
-<p style="line-height:1.0">
-<font size="2">
-Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
-Smart Structures and Systems, 2022<br />
-<br />
-</font>
-</p>
------
-<img style="float: left; margin:5px 10px" src="../images/cnn.jpg" width="160" height="140">
+
 ### Convolutional Neural Network-based Data Anomaly Detection Considering Class Imbalance with Limited Data
 <p style="line-height:1.0">
 <font size="2">
@@ -77,3 +53,20 @@ Smart Structures and Systems, 2022<br />
 </font>
 </p>
 
+### Anomaly Detection of Sensor Faults and Extreme Events based on Support Vector Data Description
+<p style="line-height:1.0">
+<font size="2">
+Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
+Structural Control and Health Monitoring, 2022<br />
+<br />
+</font>
+</p>
+
+### Unsupervised One-class Classification for Condition Assessment of Bridge Cables using Bayesian Factor Analysis
+<p style="line-height:1.0">
+<font size="2">
+Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
+Smart Structures and Systems, 2022<br />
+<br />
+</font>
+</p>
