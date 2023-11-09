@@ -71,4 +71,4 @@ Smart Structures and Systems, 2022<br />
 </font>
 </p>
 
-<div align="center"> <a href="https://mapmyvisitors.com/web/1bvj8"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=XEcyH9e1QZFMco1HsD_izASEyJSFdpOMrQKw8pEyEhk&cl=ffffff" /></a>
+<div align="center"> <a href='https://mapmyvisitors.com/web/1bvja'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=350&t=tt&d=NFqXUmrmSNJlj2YTWfx1yi8TlvZxf1VU1CbIedjEGwc&co=2d78ad&ct=ffffff'/></a>
