@@ -17,7 +17,7 @@ ML Research
 -----
 ### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
-<font size="2">
+<font size="3">
 Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
 International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <br />
@@ -30,7 +30,7 @@ AI for Science - Structural Health Monitoring
 
 ### Wireless IoT Monitoring System in Hong Kong-Zhuhai-Macao Bridge and Edge Computing for Anomaly Detection
 <p style="line-height:1.0">
-<font size="4">
+<font size="3">
 Xiaoyou Wang, Wanglin Wu, <strong>Yao Du</strong>, Jiannong Cao, Qianyi Chen, Yong Xia†<br />
 IEEE Internet of Things Journal, 2023<br />
 <br />
@@ -39,7 +39,7 @@ IEEE Internet of Things Journal, 2023<br />
 
 ### Data Anomaly Detection through Semisupervised Learning Aided by Customized Data Augmentation Techniques
 <p style="line-height:1.0">
-<font size="4">
+<font size="3">
 Xiaoyou Wang*, <strong>Yao Du*</strong>, Xiaoqing Zhou, Yong Xia†<br />
 Structural Control and Health Monitoring, 2023<br />
 <br />
@@ -48,7 +48,7 @@ Structural Control and Health Monitoring, 2023<br />
 
 ### Convolutional Neural Network-based Data Anomaly Detection Considering Class Imbalance with Limited Data
 <p style="line-height:1.0">
-<font size="4">
+<font size="3">
 <strong>Yao Du</strong>, Lingfang Li, Rongrong Hou, Xiaoyou Wang, Wei Tian, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
 <br />
@@ -57,7 +57,7 @@ Smart Structures and Systems, 2022<br />
 
 ### Anomaly Detection of Sensor Faults and Extreme Events based on Support Vector Data Description
 <p style="line-height:1.0">
-<font size="4">
+<font size="3">
 Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
 Structural Control and Health Monitoring, 2022<br />
 <br />
@@ -66,7 +66,7 @@ Structural Control and Health Monitoring, 2022<br />
 
 ### Unsupervised One-class Classification for Condition Assessment of Bridge Cables using Bayesian Factor Analysis
 <p style="line-height:1.0">
-<font size="4">
+<font size="3">
 Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
 <br />
