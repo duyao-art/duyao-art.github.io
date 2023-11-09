@@ -21,7 +21,6 @@ Conferences
 <font size="2">
 Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
 International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
-<a href="https://openreview.net/forum?id=ij3svnPLzG">Paper</a> | 
 <br />
 </font>
 </p>
@@ -34,7 +33,6 @@ Journals
 <font size="2">
 Xiaoyou Wang, Wanglin Wu, <strong>Yao Du</strong>, Jiannong Cao, Qianyi Chen, Yong Xia†<br />
 IEEE Internet of Things Journal, 2023<br />
-<a href="https://ieeexplore.ieee.org/abstract/document/10197602/">Paper</a> | 
 <br />
 </font>
 </p>
@@ -45,7 +43,6 @@ IEEE Internet of Things Journal, 2023<br />
 <font size="2">
 Xiaoyou Wang, <strong>Yao Du</strong>, Xiaoqing Zhou, Yong Xia†<br />
 Structural Control and Health Monitoring, 2023<br />
-<a href="https://www.hindawi.com/journals/schm/2023/2430011/">Paper</a> | 
 <br />
 </font>
 </p>
@@ -56,7 +53,6 @@ Structural Control and Health Monitoring, 2023<br />
 <font size="2">
 Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
 Structural Control and Health Monitoring, 2022<br />
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/stc.3047">Paper</a> | 
 <br />
 </font>
 </p>
@@ -67,7 +63,6 @@ Structural Control and Health Monitoring, 2022<br />
 <font size="2">
 Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
-<a href="https://koreascience.kr/article/JAKO202208149247779.page">Paper</a> | 
 <br />
 </font>
 </p>
@@ -78,7 +73,6 @@ Smart Structures and Systems, 2022<br />
 <font size="2">
 <strong>Yao Du</strong>, Lingfang Li, Rongrong Hou, Xiaoyou Wang, Wei Tian, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
-<a href="https://koreascience.kr/article/JAKO202208149242778.page">Paper</a> | 
 <br />
 </font>
 </p>
