@@ -26,7 +26,7 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 
 Journals
 -----
-### Wireless IoT Monitoring System in Hong Kong-ZHuhai-Macao Bridge and Edge Computing for Anomaly Detection
+### Wireless IoT Monitoring System in Hong Kong-Zhuhai-Macao Bridge and Edge Computing for Anomaly Detection
 <p style="line-height:1.0">
 <font size="2">
 Xiaoyou Wang, Wanglin Wu, <strong>Yao Du</strong>, Jiannong Cao, Qianyi Chen, Yong Xia†<br />
