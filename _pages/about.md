@@ -64,7 +64,7 @@ Structural Control and Health Monitoring, 2022<br />
 </font>
 </p>
 
-### Unsupervised One-class Classification for Condition Assessment of Bridge Cables using Bayesian Factor Analysis
+### Unsupervised One-class Classification for Condition Assessment of Bridge Cables Using Bayesian Factor Analysis
 <p style="line-height:1.0">
 <font size="3">
 Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
