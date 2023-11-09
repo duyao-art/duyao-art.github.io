@@ -13,46 +13,73 @@ DU Yao is a Ph.D. student at [X-MedLab@HKUST], [The Hong Kong University of Scie
 [Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](ydubf@connect.ust.hk)
 
 
-Publications
+Conferences
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/collaborative_diffusion.jpg" width="160" height="140">
-### Collaborative Diffusion for Multi-Modal Face Generation and Editing
+<img style="float: left; margin:5px 10px" src="../images/semireg" width="160" height="140">
+### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Kelvin C.K. Chan, Yuming Jiang, Ziwei Liu†<br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023<br />
-<a href="https://arxiv.org/abs/2304.10530">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=inLK4c8sNhc">Video</a> |
-<a href="https://github.com/ziqihuangg/Collaborative-Diffusion">Code</a> |
-<a href="https://ziqihuangg.github.io/projects/collaborative-diffusion.html">Project Page</a>
+Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
+International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
+<a href="https://openreview.net/forum?id=ij3svnPLzG">Paper</a> | 
+<br />
+</font>
+</p>
 
+Journals
+-----
+<img style="float: left; margin:5px 10px" src="../images/iot" width="160" height="140">
+### Wireless IoT Monitoring System in Hong Kong-ZHuhai-Macao Bridge and Edge Computing for Anomaly Detection
+<p style="line-height:1.0">
+<font size="2">
+Xiaoyou Wang, Wanglin Wu, <strong>Yao Du</strong>, Jiannong Cao, Qianyi Chen, Yong Xia†<br />
+IEEE Internet of Things Journal, 2023<br />
+<a href="https://ieeexplore.ieee.org/abstract/document/10197602/">Paper</a> | 
 <br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/celeba_dialog.png" width="160" height="140">
-### Talk-to-Edit: Fine-Grained Facial Editing via Dialog
+<img style="float: left; margin:5px 10px" src="../images/anomaly" width="160" height="140">
+### Data Anomaly Detection through Semisupervised Learning Aided by Customized Data Augmentation Techniques
 <p style="line-height:1.0">
 <font size="2">
-Yuming Jiang*, <strong>Ziqi Huang*</strong>, Xingang Pan, Chen Change Loy, Ziwei Liu†<br />
-IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021<br />
-<a href="https://arxiv.org/abs/2109.04425">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=ZKMkQhkMXPI">Video</a> |
-<a href="https://github.com/yumingj/Talk-to-Edit">Code</a> |
-<a href="https://www.mmlab-ntu.com/project/talkedit/index.html">Project Page</a> |
-<a href="https://github.com/ziqihuangg/CelebA-Dialog">Dataset</a>
+Xiaoyou Wang, <strong>Yao Du</strong>, Xiaoqing Zhou, Yong Xia†<br />
+Structural Control and Health Monitoring, 2023<br />
+<a href="https://www.hindawi.com/journals/schm/2023/2430011/">Paper</a> | 
 <br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/icip2021_thumb.png" width="160" height="140">
-### A Diagnostic Study of Visual Question Answering with Analogical Reasoning
+<img style="float: left; margin:5px 10px" src="../images/svdd" width="160" height="140">
+### Anomaly Detection of Sensor Faults and Extreme Events based on Support Vector Data Description
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang</strong>, Hongyuan Zhu†, Ying Sun, Dongkyu Choi, Cheston Tan, Joo−Hwee Lim<br />
-IEEE International Conference on Image Processing (<strong>ICIP</strong>), 2021<br />
-<a href="https://ieeexplore.ieee.org/document/9506539/">Paper</a> | 
-<a href="https://www.youtube.com/watch?v=W1TLrhTKPKE">Video</a>
+Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
+Structural Control and Health Monitoring, 2022<br />
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/stc.3047">Paper</a> | 
 <br />
 </font>
 </p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/oneclass" width="160" height="140">
+### Unsupervised One-class Classification for Condition Assessment of Bridge Cables using Bayesian Factor Analysis
+<p style="line-height:1.0">
+<font size="2">
+Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
+Smart Structures and Systems, 2022<br />
+<a href="https://koreascience.kr/article/JAKO202208149247779.page">Paper</a> | 
+<br />
+</font>
+</p>
+-----
+<img style="float: left; margin:5px 10px" src="../images/cnn" width="160" height="140">
+### Convolutional Neural Network-based Data Anomaly Detection Considering Class Imbalance with Limited Data
+<p style="line-height:1.0">
+<font size="2">
+<strong>Yao Du</strong>, Lingfang Li, Rongrong Hou, Xiaoyou Wang, Wei Tian, Yong Xia†<br />
+Smart Structures and Systems, 2022<br />
+<a href="https://koreascience.kr/article/JAKO202208149242778.page">Paper</a> | 
+<br />
+</font>
+</p>
+
