@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DU Yao (BEng [NWPU](https://en.nwpu.edu.cn/) MPhil [PolyU](https://www.polyu.edu.hk/))"
+title: "DU Yao"
 excerpt: "DU Yao"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am a Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Xiaomeng LI](https://xmengli.github.io/). I am interested in computer vision, medical image analysis and AI for science.
+
+I obtained BEng from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), and MPhil from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](ydubf@connect.ust.hk)
 
