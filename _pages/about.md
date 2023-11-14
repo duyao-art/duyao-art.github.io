@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DU Yao (BEng [NWPU] (https://en.nwpu.edu.cn/) MPhil [PolyU] (https://www.polyu.edu.hk/))"
+title: "DU Yao (BEng [NWPU](https://en.nwpu.edu.cn/) MPhil [PolyU](https://www.polyu.edu.hk/))"
 excerpt: "DU Yao"
 author_profile: true
 redirect_from: 
