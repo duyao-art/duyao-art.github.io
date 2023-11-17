@@ -27,7 +27,7 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 </p>
 
 
-AI4Science | AIoT | Smart City
+AI4Science | AIoT | SmartCity
 -----
 
 ### Wireless IoT Monitoring System in Hong Kong-Zhuhai-Macao Bridge and Edge Computing for Anomaly Detection
