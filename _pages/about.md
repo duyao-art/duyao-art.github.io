@@ -12,7 +12,7 @@ I am a Ph.D. student at [The Hong Kong University of Science and Technology](htt
 
 I obtained BEng from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), and MPhil from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](ydubf@connect.ust.hk)
+[Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502)
 
 
 ML Research
