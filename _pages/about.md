@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "DU Yao"
-excerpt: 
+title: 
+excerpt: "DU Yao"
 author_profile: true
 redirect_from: 
   - /about/
