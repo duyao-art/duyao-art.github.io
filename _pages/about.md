@@ -26,6 +26,15 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 </font>
 </p>
 
+### Teach CLIP to Develop a Number Sense for Ordinal Regression
+<p style="line-height:1.0">
+<font size="3">
+<strong>Yao Du</strong>, Qiang Zhai, Weihang Dai, Xiaomeng Li†<br />
+European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
+<br />
+</font>
+</p>
+
 
 AIoT | SmartCity
 -----
