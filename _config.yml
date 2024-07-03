@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DU Yao"
+title                    : 
 title_separator          : "-"
 name                     : &name "DU Yao"
 description              : &description "personal description"
