@@ -17,14 +17,6 @@ I obtained BEng from [Northwestern Polytechnical University](https://en.nwpu.edu
 
 ML Research
 -----
-### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
-<p style="line-height:1.0">
-<font size="3">
-Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
-International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
-<br />
-</font>
-</p>
 
 ### Teach CLIP to Develop a Number Sense for Ordinal Regression
 <p style="line-height:1.0">
@@ -34,6 +26,17 @@ European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
 <br />
 </font>
 </p>
+
+### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
+<p style="line-height:1.0">
+<font size="3">
+Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
+International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
+<br />
+</font>
+</p>
+
+
 
 
 AIoT | SmartCity
