@@ -54,7 +54,7 @@ IEEE Internet of Things Journal, 2023<br />
 ### Data Anomaly Detection through Semisupervised Learning Aided by Customized Data Augmentation Techniques
 <p style="line-height:1.0">
 <font size="3">
-Xiaoyou Wang*, <strong>Yao Du*</strong>, Xiaoqing Zhou, Yong Xia†<br />
+<strong>Yao Du*</strong>, Xiaoyou Wang*, Xiaoqing Zhou, Yong Xia†<br />
 Structural Control and Health Monitoring, 2023<br />
 <br />
 </font>
