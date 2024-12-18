@@ -105,8 +105,9 @@ Resources Sharing
 </font>
 </p>
 
-
-More Interesting Things in the Near Future
+<div align="left">
+  
+### More Interesting Things in the Near Future
 -----
 <div style="margin-bottom: 40px;"></div>
 
