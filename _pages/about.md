@@ -107,8 +107,8 @@ Resources Sharing
 
 <div align="left">
   
-More Interesting Things in the Near Future
------
+<strong>More Interesting Things in the Near Future</strong>
+
 <div style="margin-bottom: 40px;"></div>
 
 
