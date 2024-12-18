@@ -19,6 +19,7 @@ News
 -----
 ∙ [2024-11] One paper submitted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
+∙ [2023-09] One paper accepted to [NeurIPS 2023](https://eccv.ecva.net)<br />
 
 
 
