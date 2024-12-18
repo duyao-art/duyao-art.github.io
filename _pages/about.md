@@ -98,7 +98,7 @@ Resources Sharing
 -----
 
 ### ["ML Research, via the Lens of ML", New in ML Workshop, NeurIPS, 2024, Kaiming He.](https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf)
-<img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="600" height="330">
+<div align="center"> <img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="600" height="330">
 <p style="line-height:1.0; font-family: 'Microsoft YaHei', sans-serif;">
 <font size="4">
 <br />
