@@ -109,4 +109,4 @@ Resources Sharing
 More Interesting Things in the Near Future
 -----
 
-<div align="center"> <a href="https://mapmyvisitors.com/web/1bvj8"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=XEcyH9e1QZFMco1HsD_izASEyJSFdpOMrQKw8pEyEhk&cl=ffffff" /></a>
+<div align="center"> <a href='https://mapmyvisitors.com/web/1bvj8'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=XEcyH9e1QZFMco1HsD_izASEyJSFdpOMrQKw8pEyEhk&co=2d78ad&ct=ffffff'/></a>
