@@ -98,7 +98,7 @@ Resources Sharing
 </font>
 </p>
 
-More in the Near Future
+More Interesting Things in the Near Future
 -----
 
 
