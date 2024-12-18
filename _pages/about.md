@@ -7,21 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="line-height:1.0; font-family: 'Microsoft YaHei', sans-serif;">
+
 I am a Ph.D. candidate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Prof. Xiaomeng LI](https://xmengli.github.io/). I am interested in computer vision, medical image analysis and AI for science.
 
 I obtained BEng from [Northwestern Polytechnical University](https://en.nwpu.edu.cn/), and MPhil from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Prof. Yong XIA](https://www.polyu.edu.hk/cee/~ceyxia/).
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ&hl=zh-CN) / [GitHub](https://github.com/duyao-art) / [Twitter](https://twitter.com/yao53513502) / [Email](mailto:ydubf@connect.ust.hk)
-</p>
+
 
 News
 -----
-<p style="line-height:1.0; font-family: 'Microsoft YaHei', sans-serif;">
 ∙ [2024-11] One paper submitted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025)<br />
 ∙ [2024-07] One paper accepted to [ECCV 2024](https://eccv.ecva.net)<br />
 ∙ [2023-09] One paper accepted to [NeurIPS 2023](https://eccv.ecva.net)<br />
-</p>
 
 
 ML Research
