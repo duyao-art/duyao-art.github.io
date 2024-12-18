@@ -94,7 +94,7 @@ Resources Sharing
 <img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="760" height="420">
 <p style="line-height:1.0">
 <font size="3">
-https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf<br />
+(https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf) <br />
 <br />
 </font>
 </p>
