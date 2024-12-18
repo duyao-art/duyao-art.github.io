@@ -108,7 +108,7 @@ Resources Sharing
 
 More Interesting Things in the Near Future
 -----
-<div style="height: 5px; background-color: #000; margin: 20px 0;"></div>
+<div style="margin-bottom: 40px;"></div>
 
 
 
