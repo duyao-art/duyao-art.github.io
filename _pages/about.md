@@ -28,7 +28,7 @@ ML Research
 
 ### Teach CLIP to Develop a Number Sense for Ordinal Regression
 <p style="line-height:1.0">
-<font size="5">
+<font size="4">
 <strong>Yao Du</strong>, Qiang Zhai, Weihang Dai, Xiaomeng Li†<br />
 European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
 <br />
@@ -37,7 +37,7 @@ European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
 
 ### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
-<font size="5">
+<font size="4">
 Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
 International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <br />
@@ -61,7 +61,7 @@ IEEE Internet of Things Journal, 2023<br />
 
 ### Data Anomaly Detection through Semisupervised Learning Aided by Customized Data Augmentation Techniques
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 <strong>Yao Du*</strong>, Xiaoyou Wang*, Xiaoqing Zhou, Yong Xia†<br />
 Structural Control and Health Monitoring, 2023<br />
 <br />
@@ -70,7 +70,7 @@ Structural Control and Health Monitoring, 2023<br />
 
 ### Convolutional Neural Network-based Data Anomaly Detection Considering Class Imbalance with Limited Data
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 <strong>Yao Du</strong>, Lingfang Li, Rongrong Hou, Xiaoyou Wang, Wei Tian, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
 <br />
@@ -79,7 +79,7 @@ Smart Structures and Systems, 2022<br />
 
 ### Anomaly Detection of Sensor Faults and Extreme Events based on Support Vector Data Description
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 Yuxuan Zhang, Xiaoyou Wang, Zhenghao Ding, <strong>Yao Du</strong>, Yong Xia†<br />
 Structural Control and Health Monitoring, 2022<br />
 <br />
@@ -88,7 +88,7 @@ Structural Control and Health Monitoring, 2022<br />
 
 ### Unsupervised One-class Classification for Condition Assessment of Bridge Cables Using Bayesian Factor Analysis
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 Xiaoyou Wang, Lingfang Li, Wei Tian, <strong>Yao Du</strong>, Rongrong Hou, Yong Xia†<br />
 Smart Structures and Systems, 2022<br />
 <br />
@@ -101,7 +101,7 @@ Resources Sharing
 ### ["ML Research, via the Lens of ML", New in ML Workshop, NeurIPS, 2024, Kaiming He.](https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf)
 <img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="600" height="330">
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 <br />
 </font>
 </p>
