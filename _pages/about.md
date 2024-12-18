@@ -27,7 +27,7 @@ ML Research
 -----
 
 ### Teach CLIP to Develop a Number Sense for Ordinal Regression
-<p style="line-height:1.0">
+<p style="line-height:1.0; font-family: 'Microsoft YaHei', sans-serif;">
 <font size="4">
 <strong>Yao Du</strong>, Qiang Zhai, Weihang Dai, Xiaomeng Li†<br />
 European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
