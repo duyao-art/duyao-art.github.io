@@ -28,7 +28,7 @@ ML Research
 
 ### Teach CLIP to Develop a Number Sense for Ordinal Regression
 <p style="line-height:1.0">
-<font size="3">
+<font size="5">
 <strong>Yao Du</strong>, Qiang Zhai, Weihang Dai, Xiaomeng Li†<br />
 European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
 <br />
@@ -37,7 +37,7 @@ European Conference on Computer Vision  (<strong>ECCV</strong>), 2024<br />
 
 ### Semi-Supervised Contrastive Learning for Deep Regression with Ordinal Rankings from Spectral Seriation
 <p style="line-height:1.0">
-<font size="3">
+<font size="5">
 Weihang Dai, <strong>Yao Du</strong>, Hanru Bai, Kwang-Ting Cheng, Xiaomeng Li†<br />
 International Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023<br />
 <br />
@@ -52,7 +52,7 @@ AIoT | SmartCity
 
 ### Wireless IoT Monitoring System in Hong Kong-Zhuhai-Macao Bridge and Edge Computing for Anomaly Detection
 <p style="line-height:1.0">
-<font size="3">
+<font size="4">
 Xiaoyou Wang, Wanglin Wu, <strong>Yao Du</strong>, Jiannong Cao, Qianyi Chen, Yong Xia†<br />
 IEEE Internet of Things Journal, 2023<br />
 <br />
