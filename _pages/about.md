@@ -90,11 +90,10 @@ Smart Structures and Systems, 2022<br />
 Resources Sharing
 -----
 
-### "ML Research, via the Lens of ML", New in ML Workshop, NeurIPS, 2024, Kaiming He.
+### ["ML Research, via the Lens of ML", New in ML Workshop, NeurIPS, 2024, Kaiming He.](https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf)
 <img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="660" height="360">
 <p style="line-height:1.0">
 <font size="3">
-(https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf) <br />
 <br />
 </font>
 </p>
