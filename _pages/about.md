@@ -91,11 +91,13 @@ Resources Sharing
 -----
 
 ### "ML Research, via the Lens of ML", New in ML Workshop, NeurIPS, 2024, Kaiming He.
+<img style="float:center; margin:5px 10px" src="../images/researchSGD.png" width="760" height="420">
 <p style="line-height:1.0">
 <font size="3">
 https://people.csail.mit.edu/kaiming/neurips2024workshop/neurips2024_newinml_kaiming.pdf<br />
 <br />
 </font>
 </p>
+
 
 <div align="center"> <a href='https://mapmyvisitors.com/web/1bvj8'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=d8d5e0&w=350&t=tt&d=XEcyH9e1QZFMco1HsD_izASEyJSFdpOMrQKw8pEyEhk&co=2288d1&ct=190303'/></a>
