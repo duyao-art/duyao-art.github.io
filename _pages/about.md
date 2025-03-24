@@ -95,10 +95,6 @@ Smart Structures and Systems, 2022<br />
 </p>
 
 
-Working Experience
------
-
-∙ 2024.02-2026.02 Beijing Institute of Collaborative Innovation, research intern, supervised by [Prof. Lin LUO](https://www.coe.pku.edu.cn/teaching/all_time/11195.html).
 
 Professional Service
 -----
