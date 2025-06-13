@@ -103,6 +103,8 @@ Professional Service
 Reviewer:<br />
 ∙ Conference Reviewer: CVPR, ICCV, NeurIPS<br />
 ∙ Journal Reviewer: NNLS<br />
+Award:<br />
+∙ Outstanding Reviewer for CVPR 2025
 
 Resources Sharing
 -----
