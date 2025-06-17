@@ -42,3 +42,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* ==== Custom override to remove top whitespace on homepage ==== */
+.page__hero {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.page {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
