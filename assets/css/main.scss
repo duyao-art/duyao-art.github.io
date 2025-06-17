@@ -10,19 +10,7 @@
  *
 */
 
-// 去掉顶部空白
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
 
-// 或者直接覆盖整个页面容器
-body,
-.wrap,
-.page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
 
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
