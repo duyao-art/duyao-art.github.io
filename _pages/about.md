@@ -46,6 +46,19 @@ International Conference on Neural Information Processing Systems (<strong>NeurI
 
 
 
+Medical Imaging
+-----
+### CardiacCLIP: Video-based CLIP Adaptation for LVEF Prediction in a Few-shot Manner
+<p style="line-height:1.0; font-family: 'Microsoft YaHei', sans-serif;">
+<font size="4">
+<strong>Yao Du</strong>, Jiarong Guo, Xiaomeng Li†<br />
+International Conference on Medical Image Computing and Computer-Assisted Intervention  (<strong>MICCAI</strong>), 2025<br />
+<br />
+</font>
+</p>
+
+
+
 
 AIoT | SmartCity
 -----
