@@ -10,6 +10,13 @@
  *
 */
 
+// 去掉顶部空白
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
