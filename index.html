@@ -376,8 +376,12 @@
   function toggleLang() {
     const isEN = document.documentElement.lang === 'en';
     document.documentElement.lang = isEN ? 'zh' : 'en';
-    document.querySelectorAll('.lang-en').forEach(el => el.style.display = isEN ? 'none' : '');
-    document.querySelectorAll('.lang-zh').forEach(el => el.style.display = isEN ? '' : 'none');
+    document.querySelectorAll('.lang-en').forEach(el => {
+      el.style.display = isEN ? 'none' : (el.tagName === 'P' || el.tagName === 'DIV' ? 'block' : 'inline');
+    });
+    document.querySelectorAll('.lang-zh').forEach(el => {
+      el.style.display = isEN ? (el.tagName === 'P' || el.tagName === 'DIV' ? 'block' : 'inline') : 'none';
+    });
     document.getElementById('lang-btn').textContent = isEN ? 'EN' : '中文';
   }
 </script>
