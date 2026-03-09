@@ -37,6 +37,21 @@
     font-weight: bold;
     text-decoration: none;
   }
+  #lang-btn {
+    cursor: pointer;
+    background: none;
+    border: 1px solid #6f42c1;
+    color: #6f42c1;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.9em;
+    vertical-align: middle;
+  }
+  #lang-btn:hover {
+    background: #6f42c1;
+    color: white;
+  }
+  .lang-zh { display: none; }
 </style>
 </head>
 
@@ -49,9 +64,13 @@
 <table border=0 class="bg_colour" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr style="padding:0px">
 <td style="padding:1.5%;width:65%;vertical-align:middle">
-<h1 style="text-align:center">DU Yao</h1>
-<p>I am a Ph.D. candidate at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, supervised by <a href="https://xmengli.github.io/">Prof. Xiaomeng LI</a>. I am interested in computer vision, medical image analysis and AI for science.</p>
-<p>I obtained BEng from <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a>, and MPhil from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, supervised by <a href="https://www.polyu.edu.hk/cee/~ceyxia/">Prof. Yong XIA</a>.</p>
+<h1 style="text-align:center">DU Yao &nbsp; 杜尧</h1>
+
+<p class="lang-en">I am a Ph.D. candidate at <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, supervised by <a href="https://xmengli.github.io/">Prof. Xiaomeng LI</a>. I am interested in computer vision, medical image analysis and AI for science.</p>
+<p class="lang-en">I obtained BEng from <a href="https://en.nwpu.edu.cn/">Northwestern Polytechnical University</a>, and MPhil from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>, supervised by <a href="https://www.polyu.edu.hk/cee/~ceyxia/">Prof. Yong XIA</a>.</p>
+
+<p class="lang-zh">我是<a href="https://hkust.edu.hk/">香港科技大学</a>电子与计算机工程系的博士研究生，导师为<a href="https://xmengli.github.io/">李晓萌教授</a>。研究方向涵盖计算机视觉、医学图像分析与AI for Science。</p>
+<p class="lang-zh">本科毕业于<a href="https://www.nwpu.edu.cn/">西北工业大学</a>，硕士毕业于<a href="https://www.polyu.edu.hk/">香港理工大学</a>，导师为<a href="https://www.polyu.edu.hk/cee/~ceyxia/">夏勇教授</a>。</p>
 
 </td>
 <td style="padding:1.0%;width:45%;max-width:40%">
@@ -69,7 +88,8 @@
 <a href="https://scholar.google.com.hk/citations?user=8krbrWsAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
 <a href="https://github.com/duyao-art">GitHub</a> &nbsp;/&nbsp;
 <a href="https://twitter.com/yao53513502">Twitter</a> &nbsp;/&nbsp;
-<a href="files/CV_DUYao.pdf">CV</a>
+<a href="files/CV_DUYao.pdf">CV</a> &nbsp;&nbsp;
+<button id="lang-btn" onclick="toggleLang()">中文</button>
 </p>
 </td>
 </tr>
@@ -77,47 +97,67 @@
 
 
 
-<h3>News</h3>
+<h3><span class="lang-en">News</span><span class="lang-zh">动态</span></h3>
 <div style="padding-left: 30px; margin-bottom: 40px;">
   <table style="border: none; border-spacing: 0;">
     <tr>
       <td style="color:#5b9edd; padding-right: 10px;">[2025–10]</td>
-      <td>One paper accepted to <a href="https://biod.whu.edu.cn/bibm2025/">BIBM 2025</a></td>
+      <td>
+        <span class="lang-en">One paper accepted to <a href="https://biod.whu.edu.cn/bibm2025/">BIBM 2025</a></span>
+        <span class="lang-zh">一篇论文被 <a href="https://biod.whu.edu.cn/bibm2025/">BIBM 2025</a> 录用</span>
+      </td>
     </tr>
     <tr>
       <td style="color:#5b9edd; padding-right: 10px;">[2025–06]</td>
-      <td>Two papers accepted to <a href="https://conferences.miccai.org/2025/en/">MICCAI 2025</a></td>
+      <td>
+        <span class="lang-en">Two papers accepted to <a href="https://conferences.miccai.org/2025/en/">MICCAI 2025</a></span>
+        <span class="lang-zh">两篇论文被 <a href="https://conferences.miccai.org/2025/en/">MICCAI 2025</a> 录用</span>
+      </td>
     </tr>
     <tr>
       <td style="color:#5b9edd; padding-right: 10px;">[2025–03]</td>
-      <td>Recognized as <strong>Outstanding Reviewer</strong> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a></td>
+      <td>
+        <span class="lang-en">Recognized as <strong>Outstanding Reviewer</strong> at <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a></span>
+        <span class="lang-zh">荣获 <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a> <strong>优秀审稿人</strong>称号</span>
+      </td>
     </tr>
     <tr>
       <td style="color:#5b9edd; padding-right: 10px;">[2024–07]</td>
-      <td>One paper accepted to <a href="https://eccv.ecva.net">ECCV 2024</a></td>
+      <td>
+        <span class="lang-en">One paper accepted to <a href="https://eccv.ecva.net">ECCV 2024</a></span>
+        <span class="lang-zh">一篇论文被 <a href="https://eccv.ecva.net">ECCV 2024</a> 录用</span>
+      </td>
     </tr>
     <tr>
       <td style="color:#5b9edd; padding-right: 10px;">[2023–09]</td>
-      <td>One paper accepted to <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a></td>
+      <td>
+        <span class="lang-en">One paper accepted to <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a></span>
+        <span class="lang-zh">一篇论文被 <a href="https://nips.cc/Conferences/2023">NeurIPS 2023</a> 录用</span>
+      </td>
     </tr>
   </table>
 </div>
 
 
-  
-
-
 
 <!-- Publication Header -->
-<h3>Selected Publications & Preprints</h3>
-  
+<h3>
+  <span class="lang-en">Selected Publications &amp; Preprints</span>
+  <span class="lang-zh">代表性论文</span>
+</h3>
+
 <!-- Publications -->
 <table border=0 class="bg_colour" style="padding:5px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 <tr><td colspan="2">
-  <h4 style="color:#5b9edd;">Deep Regression: From CNNs to VLMs and MLLMs</h4>
+  <h4 style="color:#5b9edd;">
+    <span class="lang-en">Deep Regression: From CNNs to VLMs and MLLMs</span>
+    <span class="lang-zh">深度回归：从CNN到VLM与MLLM</span>
+  </h4>
   <p style="font-style:italic; color:#5b9edd; margin-top:-8px;">
-    Regression and number understanding are fundamental for precise physical perception.<br>
-    We aim to develop rigorous evaluation frameworks for measuring the quantitative reasoning and numerical understanding capabilities of MLLMs.
+    <span class="lang-en">Regression and number understanding are fundamental for precise physical perception.<br>
+    We aim to develop rigorous evaluation frameworks for measuring the quantitative reasoning and numerical understanding capabilities of MLLMs.</span>
+    <span class="lang-zh">回归与数值理解是精确物理感知的基础。<br>
+    我们致力于构建严谨的评估框架，用于衡量多模态大语言模型的定量推理与数值理解能力。</span>
   </p>
 </td></tr>
 
@@ -146,10 +186,15 @@
 </tr>
 
 <tr><td colspan="2">
-  <h4 style="color:#5b9edd;">Medical Image Analysis: Echocardiography and Computational Pathology</h4>
+  <h4 style="color:#5b9edd;">
+    <span class="lang-en">Medical Image Analysis: Echocardiography and Computational Pathology</span>
+    <span class="lang-zh">医学图像分析：超声心动图与计算病理学</span>
+  </h4>
   <p style="font-style:italic; color:#5b9edd; margin-top:-8px;">
-    Parameter-efficient fine-tuning and multimodal representation learning for medical imaging.<br>
-    We aim to develop data-efficient and clinically reliable AI systems for analyzing complex medical imaging data.
+    <span class="lang-en">Parameter-efficient fine-tuning and multimodal representation learning for medical imaging.<br>
+    We aim to develop data-efficient and clinically reliable AI systems for analyzing complex medical imaging data.</span>
+    <span class="lang-zh">面向医学影像的参数高效微调与多模态表示学习。<br>
+    我们致力于构建数据高效、临床可靠的AI系统，用于分析复杂医学影像数据。</span>
   </p>
 </td></tr>
 
@@ -161,15 +206,14 @@
   </td>
 </tr>
 
-
 <tr>
   <td class="tdcontent" style="padding:10px;width:100%;vertical-align:center">
-    <p><a href=""><papertitle>Beyond H&E: Unlocking Pathological Insights with Polarization Imaging</papertitle></a><br>
+    <p><a href=""><papertitle>Beyond H&amp;E: Unlocking Pathological Insights with Polarization Imaging</papertitle></a><br>
     <strong>Yao Du</strong>, Jiaxin Zhuang, Xiaoyu Zheng, Jing Cong, Limei Guo, Chao He, Lin Luo, Xiaomeng Li&dagger;<br>
-    <em>IEEE International Conference on Bioinformatics and Biomedicin</em> (<strong>BIBM</strong>), 2025</p>
+    <em>IEEE International Conference on Bioinformatics and Biomedicine</em> (<strong>BIBM</strong>), 2025</p>
   </td>
 </tr>
-  
+
 <tr>
   <td class="tdcontent" style="padding:10px;width:100%;vertical-align:center">
     <p><a href=""><papertitle>Diffusion-based Virtual Staining from Polarimetric Mueller Matrix Imaging</papertitle></a><br>
@@ -211,10 +255,15 @@
 </tr>
 
 <tr><td colspan="2">
-  <h4 style="color:#5b9edd;">Artificial Intelligence of Things (AIoT) / Structural Health Monitoring (SHM)</h4>
+  <h4 style="color:#5b9edd;">
+    <span class="lang-en">Artificial Intelligence of Things (AIoT) / Structural Health Monitoring (SHM)</span>
+    <span class="lang-zh">人工智能物联网（AIoT）/ 结构健康监测（SHM）</span>
+  </h4>
   <p style="font-style:italic; color:#5b9edd; margin-top:-8px;">
-    Infrastructure Sensor Anomaly Detection, Edge Computing, and AIoT Systems.<br>
-    We aim to integrate AI with large-scale infrastructure sensing systems to enable intelligent monitoring and smart city applications.
+    <span class="lang-en">Infrastructure Sensor Anomaly Detection, Edge Computing, and AIoT Systems.<br>
+    We aim to integrate AI with large-scale infrastructure sensing systems to enable intelligent monitoring and smart city applications.</span>
+    <span class="lang-zh">基础设施传感器异常检测、边缘计算与AIoT系统。<br>
+    我们致力于将人工智能与大规模基础设施感知系统深度融合，实现智能监测与智慧城市应用。</span>
   </p>
 </td></tr>
 
@@ -263,23 +312,42 @@
 
 
 <div style="height: 20px;"></div>
-<h3>Professional Service</h3>
-<p><strong>Reviewer:</strong></p>
+<h3>
+  <span class="lang-en">Professional Service</span>
+  <span class="lang-zh">学术服务</span>
+</h3>
+<p>
+  <strong><span class="lang-en">Reviewer:</span><span class="lang-zh">审稿人：</span></strong>
+</p>
 <ul>
-  <li>Conference Reviewer: CVPR, ICCV, NeurIPS, ICML, BMVC, MICCAI</li>
-  <li>Journal Reviewer: TNNLS</li>
+  <li>
+    <span class="lang-en">Conference Reviewer: CVPR, ICCV, NeurIPS, ICML, BMVC, MICCAI</span>
+    <span class="lang-zh">会议审稿人：CVPR、ICCV、NeurIPS、ICML、BMVC、MICCAI</span>
+  </li>
+  <li>
+    <span class="lang-en">Journal Reviewer: TNNLS</span>
+    <span class="lang-zh">期刊审稿人：TNNLS</span>
+  </li>
 </ul>
-<p><strong>Award:</strong></p>
+<p>
+  <strong><span class="lang-en">Awards:</span><span class="lang-zh">荣誉奖项：</span></strong>
+</p>
 <ul>
-  <li>Outstanding Reviewer, CVPR 2025</li>
-  <li>National Scholarship (Top 1%), Ministry of Education, China — 2016, 2017, 2018</li>
+  <li>
+    <span class="lang-en">Outstanding Reviewer, CVPR 2025</span>
+    <span class="lang-zh">CVPR 2025 优秀审稿人</span>
+  </li>
+  <li>
+    <span class="lang-en">National Scholarship (Top 1%), Ministry of Education, China — 2016, 2017, 2018</span>
+    <span class="lang-zh">国家奖学金（前1%），中国教育部 — 2016、2017、2018年</span>
+  </li>
 </ul>
 
-  
+
 
 
 <!-- Tracker -->
-<div style="height: 30px;"></div>  <!-- ← 加这一行即可控制空隙大小 -->
+<div style="height: 30px;"></div>
 <div align="center">
   <a href='https://mapmyvisitors.com/web/1bvj8' title='Visit tracker'>
     <img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=450&t=tt&d=XEcyH9e1QZFMco1HsD_izASEyJSFdpOMrQKw8pEyEhk&co=2d78ad&ct=ffffff'/>
@@ -303,5 +371,16 @@
 </td>
 </tr>
 </tbody></table>
+
+<script>
+  function toggleLang() {
+    const isEN = document.documentElement.lang === 'en';
+    document.documentElement.lang = isEN ? 'zh' : 'en';
+    document.querySelectorAll('.lang-en').forEach(el => el.style.display = isEN ? 'none' : '');
+    document.querySelectorAll('.lang-zh').forEach(el => el.style.display = isEN ? '' : 'none');
+    document.getElementById('lang-btn').textContent = isEN ? 'EN' : '中文';
+  }
+</script>
+
 </body>
 </html>
